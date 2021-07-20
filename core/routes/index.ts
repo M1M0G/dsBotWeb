@@ -3,8 +3,8 @@ import path from 'path';
 import express, {Request, Response, NextFunction} from 'express'
 import {Client} from "discord.js";
 import {BotController as BotCtrl} from "../../controllers/botController/botController";
-const indexHTML = path.join(__dirname,"../../build/index.html");
-const staticPath = path.join(__dirname, '../../build');
+const indexHTML = path.join(process.cwd(),"./build/index.html");
+const staticPath = path.join(process.cwd(), './build');
 
 const sseSongDur = (_:Request, res:Response, connection:any) => {
     res.setHeader('Cache-Control', 'no-cache');
