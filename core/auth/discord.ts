@@ -8,7 +8,7 @@ import {catchAsyncErrors} from "../utils/catchAsync";
 
 const CLIENT_ID = process.env.CLIENT_ID as string
 const CLIENT_SECRET = process.env.CLIENT_SECRET as string;
-const redirect = encodeURIComponent(`${process.env.DOMAIN}/api/discord/callback`);
+const redirect = encodeURIComponent(`${process.env.REDIRECT}`);
 
 discord.get("/auth", (_:Request, res:Response) => {
     res.redirect(`https://discord.com/api/oauth2/authorize?client_id=667735586169159694&redirect_uri=${redirect}&response_type=code&scope=identify%20guilds`)
