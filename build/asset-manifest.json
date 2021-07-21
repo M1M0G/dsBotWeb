@@ -3,13 +3,13 @@
     "main.css": "/build/css/main.78f12615.chunk.css",
     "main.js": "/build/js/main.cb4755de.chunk.js",
     "main.js.map": "/build/js/main.cb4755de.chunk.js.map",
-    "runtime-main.js": "/build/js/runtime-main.23678c45.js",
-    "runtime-main.js.map": "/build/js/runtime-main.23678c45.js.map",
+    "runtime-main.js": "/build/js/runtime-main.804c8075.js",
+    "runtime-main.js.map": "/build/js/runtime-main.804c8075.js.map",
     "build/js/2.ab87a975.chunk.js": "/build/js/2.ab87a975.chunk.js",
     "build/js/2.ab87a975.chunk.js.map": "/build/js/2.ab87a975.chunk.js.map",
     "build/css/3.ea0ee348.chunk.css": "/build/css/3.ea0ee348.chunk.css",
-    "build/js/3.ed52ecb3.chunk.js": "/build/js/3.ed52ecb3.chunk.js",
-    "build/js/3.ed52ecb3.chunk.js.map": "/build/js/3.ed52ecb3.chunk.js.map",
+    "build/js/3.dee10ec8.chunk.js": "/build/js/3.dee10ec8.chunk.js",
+    "build/js/3.dee10ec8.chunk.js.map": "/build/js/3.dee10ec8.chunk.js.map",
     "build/css/4.9fb970e7.chunk.css": "/build/css/4.9fb970e7.chunk.css",
     "build/js/4.5ad2c2a8.chunk.js": "/build/js/4.5ad2c2a8.chunk.js",
     "build/js/4.5ad2c2a8.chunk.js.map": "/build/js/4.5ad2c2a8.chunk.js.map",
@@ -24,7 +24,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "build/js/runtime-main.23678c45.js",
+    "build/js/runtime-main.804c8075.js",
     "build/js/2.ab87a975.chunk.js",
     "build/css/main.78f12615.chunk.css",
     "build/js/main.cb4755de.chunk.js"
